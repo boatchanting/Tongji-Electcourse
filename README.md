@@ -70,7 +70,7 @@
 你可以通过以下命令将代码下载到本地：
 
 ```bash
-git clone 
+git clone https://github.com/boatchanting/Tongji-Electcourse.git
 ```
 
 或者直接下载压缩包
