@@ -1,0 +1,4 @@
+PyQt5>=5.15
+pyautogui>=0.9.53
+keyboard>=0.13.5
+pynput>=1.7.3
