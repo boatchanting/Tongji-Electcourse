@@ -17,14 +17,14 @@
 完成后，你将看到以下界面
 
 <div align=center>
-<img src="蹲课器v1.0.0/img/001.png" width="800"> 
+<img src="蹲课器v1.0.0/img/001.png" width="300"> 
 </div>
 
 ### 3. 配置脚本
 
 1. 在“请输入配置名称”文本框中输入配置名称，例如“高数”。若不输入，则默认以当前时间生成配置文件名。
 <div align=center>
-<img src="蹲课器v1.0.0/img/0011.png" width="800"> 
+<img src="蹲课器v1.0.0/img/0011.png" width="300"> 
 </div>
 
 2. 点击“进行配置(依次点击课程，保存，关闭三个按钮)”按钮,如下图：
@@ -44,19 +44,19 @@
 ### 4. 选择配置
 1. 点击“中间的框”（发现这里忘记放提示了，之后改），选择或者输入你刚刚配置的配置文件
 <div align=center>
-<img src="蹲课器v1.0.0/img/005.png" width="800"> 
+<img src="蹲课器v1.0.0/img/005.png" width="300"> 
 </div>
 
 ### 5. 蹲课
 
 1. 点击“启动”按钮（也可以按下Crtl+B），程序将开始蹲课。
 <div align=center>
-<img src="蹲课器v1.0.0/img/006.png" width="800"> 
+<img src="蹲课器v1.0.0/img/006.png" width="300"> 
 </div>
 
 2. 点击“停止”按钮（也可以按下Crtl+E），程序将结束蹲课。
 <div align=center>
-<img src="蹲课器v1.0.0/img/007.png" width="800"> 
+<img src="蹲课器v1.0.0/img/007.png" width="300"> 
 </div>
 
 ## 创作背景
